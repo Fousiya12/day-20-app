@@ -1,0 +1,22 @@
+.field{
+    background-color: aliceblue;
+    color:black;
+    justify-content: center;
+    text-align: center;
+    border: cadetblue solid 2px;
+}
+.uibuttonblue{
+    background-color:honeydew;
+    color:mediumblue;
+    justify-content: center;
+    text-align: center;
+    border:navy solid 2px
+}
+.App{
+    background-color: aliceblue;
+    color:black;
+    justify-content: center;
+    text-align: center;
+    border: cadetblue solid 2px;
+}
+
